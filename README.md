@@ -3,8 +3,8 @@
 ## September 30, 2026
 > Co-Hosted by Nikko Stevens, Sara Kirshbaum, and Lindsay Poirier
 
-[NPRM](https://www.regulations.gov/document/USBC-2026-0628-0001)
-[Where to submit comments](https://www.regulations.gov/commenton/USBC-2026-0628-0001)
+- [NPRM](https://www.regulations.gov/document/USBC-2026-0628-0001)
+- [Where to submit comments](https://www.regulations.gov/commenton/USBC-2026-0628-0001)
 
 ### Resources
 - [Hands Off our Census](https://handsoffourcens.us/)
