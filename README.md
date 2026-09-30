@@ -3,7 +3,7 @@
 ## September 30, 2026
 > Co-Hosted by Nikko Stevens, Sara Kirshbaum, and Lindsay Poirier
 
-- [Federal Register NPRM]([https://www.regulations.gov/document/USBC-2026-0628-0001](https://www.federalregister.gov/documents/2026/09/10/2026-18481/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations))
+- [Federal Register NPRM](https://www.federalregister.gov/documents/2026/09/10/2026-18481/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations)
 - [Where to submit comments](https://www.regulations.gov/commenton/USBC-2026-0628-0001)
 
 ### Resources
